@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+*.pkl
+*.joblib
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+*.db
+*.sqlite3
+*.log
+.DS_Store
+.idea/
+.vscode/
